@@ -22,5 +22,7 @@ Usage of Godfish for attacking targets without prior mutual consent is illegal. 
 Usage:
 
 git clone https://github.com/https://github.com/Hackerclown0/godfish
+
 cd godfish
+
 bash godfish.sh
