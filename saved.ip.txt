@@ -1,0 +1,7 @@
+IP: ::1
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0IP: 139.167.183.8
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; vivo 1816 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.141 Mobile Safari/537.36 VivoBrowser/9.3.6.0IP: ::1
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0IP: 132.154.56.218
+ User-Agent: WhatsApp/2.23.3.77 AIP: 132.154.56.218
+ User-Agent: WhatsApp/2.23.3.77 AIP: 49.42.35.115
+ User-Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-A135F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/20.0 Chrome/106.0.5249.126 Mobile Safari/537.36
